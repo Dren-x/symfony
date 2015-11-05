@@ -1,0 +1,7 @@
+d88b99,127.0.0.1,GET,http://sym/web/app_dev.php/_configurator/,1446737596,
+b60944,127.0.0.1,GET,http://sym/web/app_dev.php/_configurator/step/0,1446737596,
+b3bd19,127.0.0.1,POST,http://sym/web/app_dev.php/_configurator/step/0,1446737685,
+bf0db7,127.0.0.1,GET,http://sym/web/app_dev.php/_configurator/step/1,1446737686,
+2defe3,127.0.0.1,POST,http://sym/web/app_dev.php/_configurator/step/1,1446737688,
+67fd84,127.0.0.1,GET,http://sym/web/app_dev.php/_configurator/final,1446737689,
+079c71,127.0.0.1,GET,http://sym/web/app_dev.php/,1446737694,
